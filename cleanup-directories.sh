@@ -11,7 +11,6 @@
 
 TARGET_DIR=/tmp
 KEEP_DAYS=90
-EMAIL=sid@conetix.com.au
 HOST=`hostname`
 #
 # Common Logging Code
